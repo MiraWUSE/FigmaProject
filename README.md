@@ -5,7 +5,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-Мобильное приложение на **Kotlin + Jetpack Compose** для поиска врачей, просмотра их профилей и записи на приём. Локальная база данных, реактивный интерфейс и чистая архитектура.
+Мобильное приложение на **Kotlin + Jetpack Compose** для поиска врачей, просмотра их профилей и записи на приём.
 
 ---
 
